@@ -710,6 +710,11 @@ img{
   text-transform: uppercase;
   margin:0 1em 0 0;
   font-size:1em;
+  transition: color 0.3s ease-in-out;
+ }
+
+ footer nav ul li a:hover {
+  color: #000000;
  }
 
   footer img {
